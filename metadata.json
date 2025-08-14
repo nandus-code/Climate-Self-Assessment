@@ -1,0 +1,6 @@
+{
+  "name": "Climate Tech Readiness Self-Assessment",
+  "description": "An interactive web-based self-assessment tool that evaluates a company's readiness for climate technology adoption, providing real-time scoring, a comprehensive results dashboard, and a personalized, AI-generated action plan.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
